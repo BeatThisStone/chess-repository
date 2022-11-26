@@ -1,0 +1,33 @@
+.colonna50 {
+    float: left;
+    max-width: 40%;
+    margin-right: 10%;
+}
+.cleaner {
+    clear: both;
+}
+body {
+    background-color: #161512;
+    color: #afafaf;
+}
+.isActive {
+    color: #cc4208 !important;
+}
+a {
+    text-decoration: none;
+    color: #afafaf;
+}
+.container {
+    background-color: #282424;
+    padding: 2%;
+}
+.container a:hover {
+    color: #cc4208;
+}
+.menuTop a {
+    padding: 14px 16px;
+}
+.menuTop {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
